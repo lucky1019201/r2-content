@@ -1,20 +1,25 @@
 {
-  "version": "2026-06-07-1",
+  "version": "2026-06-07-2",
   "banners": [
+    {
+      "order": 1,
+      "image": "banners/promo-event.png",
+      "id": "b4"
+    },
     {
       "id": "b3",
       "image": "banners/current-event.png",
-      "order": 1
+      "order": 2
     },
     {
       "id": "b2",
       "image": "banners/server-info.png",
-      "order": 2
+      "order": 3
     },
     {
       "id": "b1",
       "image": "banners/siege-schedule.png",
-      "order": 3
+      "order": 4
     }
   ],
   "notices": [
