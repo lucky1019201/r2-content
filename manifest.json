@@ -1,25 +1,90 @@
 {
   "version": "2026-06-01",
   "banners": [
-    { "id": "b3", "image": "banners/current-event.png", "order": 1 },
-    { "id": "b2", "image": "banners/server-info.png", "order": 2 },
-    { "id": "b1", "image": "banners/siege-schedule.png", "order": 3 }
+    {
+      "id": "b3",
+      "image": "banners/current-event.png",
+      "order": 1
+    },
+    {
+      "id": "b2",
+      "image": "banners/server-info.png",
+      "order": 2
+    },
+    {
+      "id": "b1",
+      "image": "banners/siege-schedule.png",
+      "order": 3
+    }
   ],
   "notices": [
-    { "id": "n1", "title": "R2 행운서버 안내", "date": "2026-05-31", "content": "notices/n1.json" },
-    { "id": "n2", "title": "운영자 문의 안내", "date": "2026-05-31", "content": "notices/n2.json" },
-    { "id": "n3", "title": "필독 — 이용 규칙", "date": "2026-05-31", "content": "notices/n3.json" },
-    { "id": "n4", "title": "런처 v2.0 업데이트", "date": "2026-05-31", "content": "notices/n4.json" }
+    {
+      "id": "n1",
+      "title": "R2 행운서버 안내",
+      "date": "2026-05-31",
+      "content": "notices/n1.json"
+    },
+    {
+      "id": "n2",
+      "title": "운영자 문의 안내",
+      "date": "2026-05-31",
+      "content": "notices/n2.json"
+    },
+    {
+      "id": "n3",
+      "title": "필독 — 이용 규칙",
+      "date": "2026-05-31",
+      "content": "notices/n3.json"
+    },
+    {
+      "id": "n4",
+      "title": "런처 v2.0 업데이트",
+      "date": "2026-05-31",
+      "content": "notices/n4.json"
+    }
   ],
   "events": [
-    { "id": "e1", "title": "5월 가정의달 이벤트", "date": "5월 진행중", "thumbnail": "events/e1-thumb.png", "content": "events/e1.json", "status": "ongoing" }
+    {
+      "id": "e1",
+      "title": "5월 가정의달 이벤트",
+      "date": "5월 진행중",
+      "thumbnail": "events/e1-thumb.png",
+      "content": "events/e1.json",
+      "status": "ongoing"
+    },
+    {
+      "status": "ongoing",
+      "content": "events/e2.json",
+      "date": "4월 27일~",
+      "title": "홍보 캐쉬 2배 UP 이벤트",
+      "thumbnail": "events/e2-promo.png",
+      "id": "e2"
+    }
   ],
   "tips": [
-    { "id": "t1", "title": "초기 육성 팁 — 10단계 가이드", "date": "2026-05-31", "thumbnail": "tips/t1-thumb.png", "content": "tips/t1.json" },
-    { "id": "t2", "title": "쟁길드 합류 시점 & 메리트 가이드", "date": "2026-05-31", "content": "tips/t2.json" }
+    {
+      "id": "t1",
+      "title": "초기 육성 팁 — 10단계 가이드",
+      "date": "2026-05-31",
+      "thumbnail": "tips/t1-thumb.png",
+      "content": "tips/t1.json"
+    },
+    {
+      "id": "t2",
+      "title": "쟁길드 합류 시점 & 메리트 가이드",
+      "date": "2026-05-31",
+      "content": "tips/t2.json"
+    }
   ],
   "guilds": [],
   "videos": [
-    { "id": "v1", "title": "에쉬번 공성 실황 영상", "thumbnail": "videos/v1-thumb.jpg", "duration": "2:07", "date": "2026-05-31", "videoUrl": "local:C:/Users/user/Downloads/Lucky.mp4" }
+    {
+      "id": "v1",
+      "title": "에쉬번 공성 실황 영상",
+      "thumbnail": "videos/v1-thumb.jpg",
+      "duration": "2:07",
+      "date": "2026-05-31",
+      "videoUrl": "local:C:/Users/user/Downloads/Lucky.mp4"
+    }
   ]
 }
