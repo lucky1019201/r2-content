@@ -1,1 +1,7 @@
-{"id":"e2","title":"신규 유저 지급템 추가","date":"상시","body":"<h3>🆕 신규 유저 지급템 추가</h3><p style='margin:12px 0;'>현재 무기/방어구 지급은 기존과 동일합니다.</p><div style='background:rgba(255,255,255,.05);border-radius:6px;padding:14px 16px;margin:12px 0;'><p style='font-weight:bold;color:#fbbf24;font-size:15px;margin-bottom:10px;'>🛡️ 신규 상점 방어구</p><ul style='line-height:2;'><li>💰 가격: <strong>20만 실버</strong></li><li>📊 능력치: <strong>+8 메테오스 방어구</strong> 수준</li><li>⏰ <strong style='color:#ef4444;'>기간제</strong></li><li>🔒 강화 불가</li><li>🚫 룬 착용 불가</li><li>🚫 연장 불가</li></ul></div><p style='color:#999;margin-top:8px;'>신규 유저의 초기 정착을 위한 한시적 지원 장비입니다.</p>"}
+{
+  "title": "R2 행운 서버 홍보 이벤트",
+  "body": "<h3>홍보 캐쉬 2배 UP!</h3><p><strong>50,000 → 100,000 캐쉬</strong></p><p>5회 홍보 시, 총 10만 캐시 (회당 2만 지급)</p><p>매주 일요일 저녁 일괄 지급</p><p>시작 날짜: 4월 27일</p>",
+  "images": [
+    "events/e2-promo.png"
+  ]
+}
